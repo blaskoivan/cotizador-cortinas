@@ -645,7 +645,7 @@ const CotizadorCortinasElectricas = () => {
                   size="lg"
                 >
                   <Plus className="h-4 w-4 mr-2" />
-                  Generar Cotización Completa
+                  Generar Cotización
                 </Button>
               </CardContent>
             </Card>
