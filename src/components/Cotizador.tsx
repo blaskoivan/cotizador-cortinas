@@ -723,16 +723,6 @@ const CotizadorCortinasElectricas = () => {
                             </>
                           )}
                         </Button>
-
-                        <Button 
-                          onClick={exportQuotation}
-                          variant="outline"
-                          className="w-full"
-                          disabled={quotationItems.length === 0}
-                        >
-                          <Download className="h-4 w-4 mr-2" />
-                          Exportar JSON
-                        </Button>
                         
                         <Button 
                           variant="outline" 
